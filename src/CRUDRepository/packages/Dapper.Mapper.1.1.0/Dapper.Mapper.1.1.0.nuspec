@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dapper.Mapper</id>
+    <version>1.1.0</version>
+    <title>Dapper.Mapper</title>
+    <authors>dotarj</authors>
+    <owners>dotarj</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://github.com/dotarj/Dapper.Mapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dapper.Mapper is an extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.</description>
+    <releaseNotes>- Only write properties without index parameters
+- Included PDB</releaseNotes>
+    <copyright>Copyright © 2013 Arjen Post</copyright>
+    <language />
+    <tags>orm sql micro-orm dapper</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Dapper" version="1.8" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

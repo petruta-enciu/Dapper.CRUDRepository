@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NUnitHelpers</id>
+    <version>0.1.2.0</version>
+    <title>NUnitHelpers</title>
+    <authors>Martin Buberl</authors>
+    <owners>Martin Buberl</owners>
+    <licenseUrl>https://github.com/martinbuberl/NUnitHelpers/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/martinbuberl/NUnitHelpers</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NUnitHelpers is a library of useful NUnit helpers.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>NUnit TDD BDD</tags>
+    <dependencies>
+      <dependency id="NUnit" version="2.5.10.11092" />
+    </dependencies>
+    <references>
+      <reference file="nunit.framework.helpers.dll" />
+    </references>
+  </metadata>
+</package>
