@@ -12,4 +12,3 @@ Repository will take advantage of abstractization level offered by:
 Dapper-dot-net packages could be found here https://github.com/SamSaffron/dapper-dot-net.
 Dapper-Extensions packages could be found here https://github.com/tmsmith/Dapper-Extensions.
 
-
