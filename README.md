@@ -9,6 +9,7 @@ Repository will take advantage of abstractization level offered by:
 - DapperExtentions.DapperImplementor class and IDapperImplementor public interface suitable for dependency injection;
 - DapperExtentions .SqlServerDialect, .MySqlDialect, .SqlCeDialect, .SqliteDialect and ISqlDialect public interface suitable for dependency injection;
 
-Dapper-dot-net packages could be found here https://github.com/SamSaffron/dapper-dot-net
-Dapper-Extensions packages could be found here https://github.com/tmsmith/Dapper-Extensions
+Dapper-dot-net packages could be found here https://github.com/SamSaffron/dapper-dot-net.
+Dapper-Extensions packages could be found here https://github.com/tmsmith/Dapper-Extensions.
+
 
